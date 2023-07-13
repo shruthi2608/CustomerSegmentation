@@ -50,7 +50,8 @@ Average Income, Average Spending Score (Cluster 1) - May or  may not target thes
 Low Income, High Spending Score (Cluster 4) - Can target  these set of customers by providing them with Low-cost EMI's, etc.
 Low Income, Low Spending Score (Cluster 3) - Don't target  these customers since they have less income and need to save  money.
 
-
+## YouTube Link
+https://youtu.be/D7K1lcudE-E 
 
 
 
