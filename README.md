@@ -23,15 +23,19 @@ The size of the dataset is (200, 5) which  is 200 rows and 5 columns.
 
 # Implementation and Analysis
 *Gender Plot Analysis:*
+
 From the Count plot, it is observed that the number of Female customers is more  than the total number of Male customers.
 
 *Age Plot Analysis:*
+
 Using BarPlot, we have grouped the customers into five groups in which it is evident that more number of customers are present  at the age group of 26-35.
 
 *Age Vs Spending Score Analysis:*
+
 From the Age Vs Spending Score plot  we observe that customers whose  spending score is more than 65 have their  Age in the range of 15-40 years.The customers having average spending  score ie: in the range of 40-60 consists of  the age group of the range 15-75 years.
 
 *Annual Income Vs Spending Score Analysis:*
+
 We observe that there are 5 clusters and  can be categorized as:
 High Income, High Spending Score (Top  Right Cluster)
 High	Income,	Low	Spending	Score
@@ -44,6 +48,7 @@ Low	Income,	Low	Spending	Score
 (Bottom Left Cluster)
 
 *Clustering Analysis:*
+
 High Income, High Spending Score (Cluster 5) - Target these  customers by sending new product alerts which would lead to an  increase in the revenue collected by the mall as they are loyal  customers.
 High Income, Low Spending Score (Cluster 2) - Target these  customers by asking the feedback and advertising the product in a  better way to convert them into Cluster 5 customers.
 Average Income, Average Spending Score (Cluster 1) - May or  may not target these groups of customers based on the policy of  the mall.
